@@ -12,11 +12,11 @@ fire hydrant
 stop sign
 parking meter
 bench
+sheep
 bird
 cat
 dog
-horse
-sheep
+Horse
 cow
 elephant
 bear
